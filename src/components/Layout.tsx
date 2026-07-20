@@ -43,7 +43,7 @@ export default function Layout() {
       <SiteBackgroundSlot />
       <SectionErrorBoundary name="navbar">
         <NavbarInline
-      logo="PBC Web Studio"
+      logo="Foundations Digital"
       ctaButton={{
         text: "Get My Quote",
         href: "#contact",
@@ -55,8 +55,8 @@ export default function Layout() {
       </main>
       <SectionErrorBoundary name="footer">
         <FooterMinimal
-      brand="PBC Web Studio"
-      copyright="© 2024 PBC Web Studio. All rights reserved. Locally owned in Palm Beach County."
+      brand="Foundations Digital"
+      copyright="© 2024 Foundations Digital. All rights reserved. Locally owned in Palm Beach County."
       socialLinks={[
         {
           icon: Instagram,
